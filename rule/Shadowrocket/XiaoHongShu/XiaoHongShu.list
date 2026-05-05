@@ -1,10 +1,17 @@
 # NAME: XiaoHongShu
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:18:50
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
+# AUTHOR: htcoa
+# REPO: https://github.com/htcoa/ios_rule_scrip
+# UPDATED: 2026-05-05
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
+
 DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xiaohongshu.com
+
+# 自定义补充
+DOMAIN-SUFFIX,rednote.com
+DOMAIN-SUFFIX,xiaohongshu.net
+DOMAIN-SUFFIX,xiaohongshu.com.cn
+DOMAIN-SUFFIX,xhslink.com
