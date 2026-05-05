@@ -1,0 +1,13 @@
+# NAME: MoMo
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
+# UPDATED: 2026-05-05
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+
+DOMAIN-SUFFIX,immomo.com
+DOMAIN-SUFFIX,immomo.net
+DOMAIN-SUFFIX,immomogame.com
+DOMAIN-SUFFIX,momocdn.com
+DOMAIN-SUFFIX,momocdn.net
+DOMAIN-SUFFIX,hellogroup.com
