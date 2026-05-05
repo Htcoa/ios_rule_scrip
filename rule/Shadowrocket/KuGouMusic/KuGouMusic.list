@@ -2,8 +2,8 @@
 # AUTHOR: Htcoa
 # REPO: https://github.com/Htcoa/ios_rule_scrip
 # UPDATED: 2026-05-05
-# DOMAIN-SUFFIX: 7
-# TOTAL: 7
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
 
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,kgimg.com
@@ -12,3 +12,5 @@ DOMAIN-SUFFIX,kugou.net
 DOMAIN-SUFFIX,kugouipv6.com
 DOMAIN-SUFFIX,kugouapp.com
 DOMAIN-SUFFIX,fanxing.com
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,tme.cn
