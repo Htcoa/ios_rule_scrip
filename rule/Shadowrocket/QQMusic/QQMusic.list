@@ -1,0 +1,22 @@
+# NAME: QQMusic
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
+# UPDATED: 2026-05-05
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 7
+# USER-AGENT: 2
+# TOTAL: 11
+
+DOMAIN,isure.stream.qqmusic.qq.com
+DOMAIN,isure6.stream.qqmusic.qq.com
+
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,music.qq.com
+DOMAIN-SUFFIX,stream.qqmusic.qq.com
+DOMAIN-SUFFIX,qqmusiccdn.com
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,tme.cn
+
+USER-AGENT,QQMusic*
+USER-AGENT,qqmusic*
