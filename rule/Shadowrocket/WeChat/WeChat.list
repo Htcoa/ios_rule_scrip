@@ -1,12 +1,12 @@
 # NAME: WeChat
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:18:25
+# AUTHOR: htcoa
+# REPO: https://github.com/htcoa/ios_rule_scrip
+# UPDATED: 2026-05-05 09:18:25
 # DOMAIN: 8
 # DOMAIN-SUFFIX: 22
 # IP-ASN: 1
 # USER-AGENT: 2
-# TOTAL: 33
+# TOTAL: 37
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com
 DOMAIN,dldir1.qq.com
@@ -40,3 +40,9 @@ DOMAIN-SUFFIX,yun-hl.3g.qq.com
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 IP-ASN,132203,no-resolve
+
+# WeChat 补充
+DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,wechatapp.com
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,myqcloud.com
