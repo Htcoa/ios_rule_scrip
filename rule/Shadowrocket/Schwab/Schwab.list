@@ -1,0 +1,14 @@
+# NAME: Schwab
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
+# UPDATED: 2026-05-05
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwabcdn.com
+DOMAIN-SUFFIX,schwabassetmanagement.com
+DOMAIN-SUFFIX,aboutschwab.com
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,tdameritrade.com.sg
