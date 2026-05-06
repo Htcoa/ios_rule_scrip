@@ -1,29 +1,55 @@
 # NAME: DouYin
-# AUTHOR: blackmatrix7 + 自定义补充
-# REPO: https://github.com/htcoa/ios_rule_scrip
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
 # UPDATED: 2026-05-05
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 16
-# TOTAL: 18
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 31
+# TOTAL: 34
 
 DOMAIN,lf3-static.bytednsdoc.com
 DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN,lf3-cdn-tos.bytescm.com
 
+# DouYin 核心
 DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,idouyinvod.com
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,toutiao.com
 
-# Mac 抖音客户端补充
-DOMAIN-SUFFIX,bytecdn.cn
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,bytedance.com
+# 登录 / 账号 / 风控
+DOMAIN-SUFFIX,byteacct.com
+DOMAIN-SUFFIX,byteacctimg.com
+DOMAIN-SUFFIX,bytedanceapi.com
 DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,zijieapi.cn
+DOMAIN-SUFFIX,zijieapi.net
+DOMAIN-SUFFIX,passport.douyin.com
+
+# 字节 CDN / 图片 / 静态资源
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,bytecdn.com
+DOMAIN-SUFFIX,bytecdn.net
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,byteimgc.com
+DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,bytemastatic.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,toscdn.com
+
+# 字节通用
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,bytedns.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,zjcdn.com
+
+# 相关业务
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,toutiao.com
