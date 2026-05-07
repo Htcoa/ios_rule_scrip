@@ -1,0 +1,25 @@
+# NAME: Wise
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
+# UPDATED: 2026-05-08
+# DOMAIN: 7
+# DOMAIN-SUFFIX: 9
+# TOTAL: 16
+
+DOMAIN,wise.com
+DOMAIN,app.wise.com
+DOMAIN,api.wise.com
+DOMAIN,wise-api.wise.com
+DOMAIN,api.transferwise.com
+DOMAIN,sandbox.transferwise.tech
+DOMAIN,wise.com.cdn.cloudflare.net
+
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,transferwise.tech
+DOMAIN-SUFFIX,wise.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,wise.jobs
+DOMAIN-SUFFIX,wisecdn.com
+DOMAIN-SUFFIX,wise-ping.com
+DOMAIN-SUFFIX,wiseanalytics.com
+DOMAIN-SUFFIX,wisebanking.com
