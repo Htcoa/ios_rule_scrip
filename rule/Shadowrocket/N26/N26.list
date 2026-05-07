@@ -1,0 +1,18 @@
+# NAME: N26
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
+# UPDATED: 2026-05-08
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 5
+# TOTAL: 9
+
+DOMAIN,app.n26.com
+DOMAIN,api.tech26.de
+DOMAIN,api-docs.n26.com
+DOMAIN,support.n26.com
+
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,tech26.de
+DOMAIN-SUFFIX,number26.de
+DOMAIN-SUFFIX,number26.com
+DOMAIN-SUFFIX,n26-cdn.com
