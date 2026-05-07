@@ -1,0 +1,22 @@
+# NAME: Bybit
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
+# UPDATED: 2026-05-08
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 7
+# TOTAL: 13
+
+DOMAIN,api.bybit.com
+DOMAIN,stream.bybit.com
+DOMAIN,ws.bybit.com
+DOMAIN,api-testnet.bybit.com
+DOMAIN,stream-testnet.bybit.com
+DOMAIN,testnet.bybit.com
+
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitstatic.com
+DOMAIN-SUFFIX,bybit-exchange.github.io
