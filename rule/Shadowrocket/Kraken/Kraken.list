@@ -1,0 +1,20 @@
+# NAME: Kraken
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
+# UPDATED: 2026-05-08
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 8
+# TOTAL: 11
+
+DOMAIN,api.kraken.com
+DOMAIN,ws.kraken.com
+DOMAIN,futures.kraken.com
+
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,krakenpro.com
+DOMAIN-SUFFIX,krakenfx.com
+DOMAIN-SUFFIX,cryptowat.ch
+DOMAIN-SUFFIX,cryptowatch.com
+DOMAIN-SUFFIX,payward.com
+DOMAIN-SUFFIX,kraken.zendesk.com
+DOMAIN-SUFFIX,krakenstatus.com
