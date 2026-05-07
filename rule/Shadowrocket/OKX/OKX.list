@@ -1,9 +1,35 @@
 # NAME: OKX
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 16:03:00
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,oklink.com
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
+# UPDATED: 2026-05-08
+# DOMAIN: 14
+# DOMAIN-SUFFIX: 12
+# TOTAL: 26
+
+DOMAIN,www.okx.com
+DOMAIN,my.okx.com
+DOMAIN,app.okx.com
+DOMAIN,api.okx.com
+DOMAIN,ws.okx.com
+DOMAIN,wsaws.okx.com
+DOMAIN,wspap.okx.com
+DOMAIN,web3.okx.com
+DOMAIN,static.okx.com
+DOMAIN,static.coinall.ltd
+DOMAIN,okx.com.cdn.cloudflare.net
+DOMAIN,okx-dex-router.com
+DOMAIN,okx-dex-router.okx.com
+DOMAIN,okx-dex-router-rpc.okx.com
+
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,my.okx.com
+DOMAIN-SUFFIX,okx-dex-router.com
+DOMAIN-SUFFIX,okx-dex-router.okx.com
+DOMAIN-SUFFIX,okx-dex-router-rpc.okx.com
+DOMAIN-SUFFIX,okxcdn.com
+DOMAIN-SUFFIX,okxstatic.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,coinall.ltd
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
