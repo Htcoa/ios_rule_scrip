@@ -1,0 +1,24 @@
+# NAME: Nexo
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
+# UPDATED: 2026-05-08
+# DOMAIN: 7
+# DOMAIN-SUFFIX: 8
+# TOTAL: 15
+
+DOMAIN,platform.nexo.com
+DOMAIN,pro.nexo.com
+DOMAIN,prime.nexo.com
+DOMAIN,support.nexo.com
+DOMAIN,pg.nexo.com
+DOMAIN,app.nexo.com
+DOMAIN,api.nexo.com
+
+DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,nexo.io
+DOMAIN-SUFFIX,nexoassets.com
+DOMAIN-SUFFIX,nexocdn.com
+DOMAIN-SUFFIX,nexo-cdn.com
+DOMAIN-SUFFIX,nexopro.com
+DOMAIN-SUFFIX,nexoassets.io
+DOMAIN-SUFFIX,nexo.services
