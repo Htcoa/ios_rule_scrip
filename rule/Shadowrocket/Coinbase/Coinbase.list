@@ -1,0 +1,24 @@
+# NAME: Coinbase
+# AUTHOR: Htcoa
+# REPO: https://github.com/Htcoa/ios_rule_scrip
+# UPDATED: 2026-05-08
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 9
+# TOTAL: 15
+
+DOMAIN,api.coinbase.com
+DOMAIN,ws-feed.exchange.coinbase.com
+DOMAIN,advanced-trade-ws.coinbase.com
+DOMAIN,api.developer.coinbase.com
+DOMAIN,pay.coinbase.com
+DOMAIN,commerce.coinbase.com
+
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coinbasecdn.net
+DOMAIN-SUFFIX,coinbasecloud.dev
+DOMAIN-SUFFIX,coinbasecommerce.net
+DOMAIN-SUFFIX,coinbasewallet.com
+DOMAIN-SUFFIX,coinbaseassets.com
+DOMAIN-SUFFIX,coinbase-analytics.com
+DOMAIN-SUFFIX,cbhq.net
+DOMAIN-SUFFIX,cb.link
